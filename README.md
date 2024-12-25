@@ -1,2 +1,2 @@
 # BigTwo
-A big two card game with multiplayer functionality support for up to four people, implemented with a Java client-server model and a Swing GUI.
+A big two card game with multiplayer functionality support for up to four people, implemented with a Java client-server model and a Swing GUI. The project was a semester-project for the course COMP2396: Object-Oriented Programming and Java by the University of Hong Kong.
