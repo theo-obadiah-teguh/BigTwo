@@ -15,5 +15,5 @@ This was my first time coding a fully functional and responsive GUI, with a prop
 1. Execute `javac *.java` to compile all of the dependencies.
 1. Execute `java BigTwoServer` to activate the game server.
 1. Execute `java BigTwo` four times to add four players to the game.
-1. Alternatively, run `java BigTwo` before `java BigTwoServer` and enter the game with the connect button in the top left menu.
-1. The game starts when all clients have joined. Afterwards, have fun playing the game!
+1. Alternatively, run `java BigTwo` before `java BigTwoServer` and enter the game with the connect button in the top left menu. The game starts when all clients have joined.
+1. Finally, have fun playing the game!
