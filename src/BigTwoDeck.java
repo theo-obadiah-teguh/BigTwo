@@ -3,7 +3,7 @@
  */
 public class BigTwoDeck extends Deck {
 	/**
-	 * a method for initializing a deck of Big Two cards.
+	 * an overridden method for initializing a deck of Big Two cards.
 	 */
 	@Override
 	public void initialize() {

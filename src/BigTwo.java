@@ -80,13 +80,17 @@ public class BigTwo {
 	private BigTwoGUI ui;
 
 	/**
-	 * a method to set the game status
+	 * a method to set the game status.
 	 * @param status a boolean denoting the game status.
 	 */
 	public void updateGameStatus(boolean status) {
 		this.hasStarted = status;
 	}
 
+	/**
+	 * a method for checking if the game has started.
+	 * @return true if the game has started and false otherwise.
+	 */
 	public boolean getGameStatus() {
 		return hasStarted;
 	}
@@ -226,6 +230,7 @@ public class BigTwo {
 
 	/**
 	 * a public helper and wrapper method to check if the client is connected to a server.
+	 * @return true if the client is connected and false otherwise.
 	 */
 	public boolean clientIsConnected() {
 		return this.client.isConnected();

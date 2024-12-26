@@ -1,3 +1,6 @@
+/**
+ * An interface for a general network-based game.
+ */
 public interface NetworkGame {
 	/**
 	 * Returns the playerID (index) of the local player.
