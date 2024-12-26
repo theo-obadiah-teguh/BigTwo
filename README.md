@@ -5,7 +5,7 @@ A traditional card game with multiplayer functionality support for up to four pe
 https://github.com/user-attachments/assets/1da4c0d2-137f-4bed-a6d3-479d348fc4d0
 
 ## Some Thoughts
-This was my first time coding a fully functional and responsive GUI, with a proper client-server model. Additionally, this course also taught me how to write and appreciate proper documentation for large-scale projects. I also learned how to use basic network sockets and the fundamentals of serialization and threading. There are some additional edge cases to consider in the future, such as handling client reconnection. Furthermore, the server should ideally be hosted on an AWS EC2 or VM to make the game truly playable across devices.
+This was my first time coding a fully functional and responsive GUI, with a proper client-server model. Additionally, this course also taught me how to write and appreciate proper documentation for large-scale projects. Documentation for the classes in this project are located in the `javadoc` directory. I also learned how to use basic network sockets and the fundamentals of serialization and threading. There are some additional edge cases to consider in the future, such as handling client reconnection. Furthermore, the server should ideally be hosted on an AWS EC2 or VM to make the game truly playable across devices.
 
 ## Compilation and Execution Instructions:
 1. Make sure you have Git installed on your device.
